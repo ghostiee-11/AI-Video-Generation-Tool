@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (DO NOT UPLOAD)
+venv/
+env/
+.env
+
+# Mac System Files
+.DS_Store
+
+# Generated Content (We auto-download assets, don't upload them)
+output/
+assets/
